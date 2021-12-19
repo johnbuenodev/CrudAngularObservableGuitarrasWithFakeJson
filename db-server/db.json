@@ -1,0 +1,39 @@
+{
+  "guitarra": [
+    {
+      "id": 1,
+      "nome": "Strato",
+      "marca": "Fender",
+      "lancamento": "19/12/2021",
+      "quantidade": 42
+    },
+    {
+      "id": 2,
+      "nome": "Flying-v",
+      "marca": "Wasburn",
+      "lancamento": "10/01/2016",
+      "quantidade": 10
+    },
+    {
+      "id": 3,
+      "nome": "Guitarra Alterada nºvezes: 3",
+      "marca": "Marca Alterada",
+      "lancamento": "01/09/2011",
+      "quantidade": 3
+    },
+    {
+      "id": 4,
+      "nome": "Tzero",
+      "marca": "Tagima",
+      "lancamento": "01/09/2011",
+      "quantidade": 6
+    },
+    {
+      "nome": "Guitarra Teste-2",
+      "marca": "Guitarra Teste-2",
+      "lancamento": "01/09/2011",
+      "quantidade": 20,
+      "id": 5
+    }
+  ]
+}
